@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=" src=https://github.com/user-attachments/assets/08a731a9-088e-422a-8174-36d108210447" width="120" alt="QuizForge icon"/>
+  <img src=https://github.com/user-attachments/assets/08a731a9-088e-422a-8174-36d108210447 width="120" alt="QuizForge icon"/>
 </p>
 
 <h1 align="center">QuizForge</h1>
