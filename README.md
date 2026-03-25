@@ -179,16 +179,6 @@ QuizForge comes in two versions, each as a separate executable:
 | `QuizForge-IT.exe` | Italian | Italian | Italian |
 | `QuizForge-EN.exe` | English | English | English |
 
-### Building each version
-
-```bash
-python build.py --lang it     # builds dist/QuizForge-IT/QuizForge-IT.exe
-python build.py --lang en     # builds dist/QuizForge-EN/QuizForge-EN.exe
-```
-
-You can build both and distribute them separately.
-
----
 
 ## Troubleshooting
 
